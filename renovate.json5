@@ -11,7 +11,7 @@
     },
     {
       groupName: "ktor",
-      "matchPackagePatterns": ["ktor"],
+      matchPackageNames: ["ktor"],
       addLabels: ["ktor"],
     }
   ],
