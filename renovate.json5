@@ -8,6 +8,11 @@
       groupName: "gradle",
       matchPackageNames: ["gradle"],
       allowedVersions: "<7.6.0",
+    },
+    {
+      groupName: "ktor",
+      "matchPackagePatterns": ["ktor"],
+      addLabels: ["ktor"],
     }
   ],
 }
