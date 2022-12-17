@@ -13,6 +13,7 @@
       groupName: "ktor",
       matchPackagePatterns: ["ktor"],
       addLabels: ["ktor"],
+      allowedVersions: "<2.2.0",
     }
   ],
 }
